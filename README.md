@@ -8,6 +8,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0001-two-sum](https://github.com/bubudetp/ADS/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bubudetp/ADS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/bubudetp/ADS/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,5 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bubudetp/ADS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/bubudetp/ADS/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
