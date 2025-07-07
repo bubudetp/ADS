@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bubudetp/ADS/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bubudetp/ADS/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bubudetp/ADS/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bubudetp/ADS/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
