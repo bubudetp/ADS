@@ -19,6 +19,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0001-two-sum](https://github.com/bubudetp/ADS/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/bubudetp/ADS/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/bubudetp/ADS/tree/master/0146-lru-cache) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/bubudetp/ADS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/bubudetp/ADS/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bubudetp/ADS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/bubudetp/ADS/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -108,4 +110,12 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/bubudetp/ADS/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/bubudetp/ADS/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
