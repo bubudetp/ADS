@@ -15,6 +15,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/bubudetp/ADS/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/bubudetp/ADS/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/bubudetp/ADS/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/bubudetp/ADS/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/bubudetp/ADS/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/bubudetp/ADS/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bubudetp/ADS/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/bubudetp/ADS/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -149,4 +152,24 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bubudetp/ADS/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bubudetp/ADS/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bubudetp/ADS/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bubudetp/ADS/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bubudetp/ADS/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bubudetp/ADS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
