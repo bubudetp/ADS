@@ -87,6 +87,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bubudetp/ADS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/bubudetp/ADS/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/bubudetp/ADS/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/bubudetp/ADS/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -94,11 +95,13 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0104-maximum-depth-of-binary-tree](https://github.com/bubudetp/ADS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bubudetp/ADS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/bubudetp/ADS/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/bubudetp/ADS/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bubudetp/ADS/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/bubudetp/ADS/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/bubudetp/ADS/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -109,6 +112,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bubudetp/ADS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/bubudetp/ADS/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/bubudetp/ADS/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/bubudetp/ADS/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
