@@ -80,6 +80,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bubudetp/ADS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bubudetp/ADS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bubudetp/ADS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/bubudetp/ADS/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bubudetp/ADS/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/bubudetp/ADS/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bubudetp/ADS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bubudetp/ADS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bubudetp/ADS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/bubudetp/ADS/tree/master/0173-binary-search-tree-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,6 +111,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bubudetp/ADS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/bubudetp/ADS/tree/master/0173-binary-search-tree-iterator) |
 ## Trie
 |  |
 | ------- |
@@ -116,8 +120,13 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bubudetp/ADS/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/bubudetp/ADS/tree/master/0173-binary-search-tree-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bubudetp/ADS/tree/master/0146-lru-cache) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/bubudetp/ADS/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
