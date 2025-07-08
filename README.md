@@ -13,6 +13,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0056-merge-intervals](https://github.com/bubudetp/ADS/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bubudetp/ADS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
+| [0189-rotate-array](https://github.com/bubudetp/ADS/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/bubudetp/ADS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/bubudetp/ADS/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/bubudetp/ADS/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/bubudetp/ADS/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bubudetp/ADS/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/bubudetp/ADS/tree/master/0189-rotate-array) |
 ## Memoization
 |  |
 | ------- |
