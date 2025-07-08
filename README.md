@@ -10,6 +10,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bubudetp/ADS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bubudetp/ADS/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/bubudetp/ADS/tree/master/0036-valid-sudoku) |
+| [0056-merge-intervals](https://github.com/bubudetp/ADS/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,8 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bubudetp/ADS/tree/master/0036-valid-sudoku) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/bubudetp/ADS/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
