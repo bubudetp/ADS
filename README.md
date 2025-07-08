@@ -12,21 +12,25 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0036-valid-sudoku](https://github.com/bubudetp/ADS/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/bubudetp/ADS/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bubudetp/ADS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bubudetp/ADS/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/bubudetp/ADS/tree/master/0036-valid-sudoku) |
+| [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/bubudetp/ADS/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/bubudetp/ADS/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bubudetp/ADS/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/bubudetp/ADS/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -63,6 +67,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bubudetp/ADS/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
@@ -99,4 +104,8 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bubudetp/ADS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
