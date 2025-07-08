@@ -26,6 +26,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0006-zigzag-conversion](https://github.com/bubudetp/ADS/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/bubudetp/ADS/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/bubudetp/ADS/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bubudetp/ADS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/bubudetp/ADS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/bubudetp/ADS/tree/master/0086-partition-list) |
+| [0151-reverse-words-in-a-string](https://github.com/bubudetp/ADS/tree/master/0151-reverse-words-in-a-string) |
 ## Matrix
 |  |
 | ------- |
