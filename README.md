@@ -25,6 +25,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bubudetp/ADS/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/bubudetp/ADS/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,4 +48,12 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/bubudetp/ADS/tree/master/0061-rotate-list) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bubudetp/ADS/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bubudetp/ADS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
