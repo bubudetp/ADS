@@ -14,6 +14,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bubudetp/ADS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/bubudetp/ADS/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/bubudetp/ADS/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/bubudetp/ADS/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,4 +145,8 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bubudetp/ADS/tree/master/0173-binary-search-tree-iterator) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/bubudetp/ADS/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
